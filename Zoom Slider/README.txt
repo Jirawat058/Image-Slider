@@ -2,7 +2,7 @@ This is one of the image slider in Ninja Slider
 from website http://www.menucool.com/responsive-slider
 
 
-Features
+#Features
 
 Responsive (adapt to browser size, or max-width on larger screen)
 Navigate by tap or swipe on touch-enabled devices
